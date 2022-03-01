@@ -54,12 +54,3 @@
 ## 오늘의 문제
 
 [오늘의 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md)
-
-
-
-## 최근 기업 코딩테스트 알고리즘 분류 정리
-
-[바로가기](./CodingTest.md)
-
-
-
