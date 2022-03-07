@@ -16,7 +16,7 @@
 ## 알파 문제
 | 날짜     | 문제 이름                                    | 예지 | 유미 |
 | -------- | -------------------------------------------- | ---- | ---- |
-| 3월 2주차 | https://programmers.co.kr/learn/courses/30/lessons/72410  |        |        |
+| 22-3-2주차 | PG-https://programmers.co.kr/learn/courses/30/lessons/72410  |        |        |
 
 ## 알고리즘 문제집
 
