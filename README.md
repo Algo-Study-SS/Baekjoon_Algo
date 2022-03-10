@@ -9,8 +9,8 @@
 | 22-03-01 | 22864번 - 피로도<br />5547번 - 일루미네이션  |     ✅   |    ✅    |
 | 22-03-03 | 2798번 - 블랙잭<br />2667번 - 단지번호붙이기 |  ✅  |  ✅  |
 | 22-03-08 | 2231번 - 분해합<br /> 2178번 - 미로탐색      |    ✅   |  ✅    |
-| 22-03-10 | 16918 - 봄버맨 <br/> 19532번 수학은 비대면 강의입니다.    |      |      |
-|          |     |      |      |
+| 22-03-10 | 16918번 - 봄버맨 <br/> 19532번 - 수학은 비대면 강의입니다.    |   ✅   |   ✅   |
+| 22-03-14 | 10870번-피보나치수5<br/> 2839번- 설탕배달 <br/> 16234번 -인구이동   |      |      |
 
 
 ## 알파 문제
@@ -27,13 +27,13 @@
 |  02  |             Tree             |       트리       |             [바로가기](./tree)             |      15      |     44     |       |
 |  03  |             Math             |       수학       |             [바로가기](./math)             |      18      |     29     |       |
 |  04  |            Greedy            |      탐욕법      |            [바로가기](./greedy)            |      27      |     62     |       |
-|  05  |    Dynamic Programming 1     |   동적계획법 1   |    [바로가기](./dynamic_programming_1)     |      27      |     80     |       |
+|  05  |    Dynamic Programming 1     |   동적계획법 1   |    [바로가기](./dynamic_programming_1)     |      27      |     80     | Doing |
 |  06  |    Dynamic Programming 2     |   동적계획법 2   |    [바로가기](./dynamic_programming_2)     |      28      |     81     |       |
 |  07  |         Two Pointer          |    투 포인터     |         [바로가기](./two_pointer)          |      13      |     36     |       |
 |  08  |        Implementation        |       구현       |        [바로가기](./implementation)        |      30      |     51     |       |
 |  09  |       Graph Traversal        |   그래프 탐색    |       [바로가기](./graph_traversal)        |      31      |     96     | Doing |
 |  10  |         Brute Force          |     완전탐색     |         [바로가기](./brute_force)          |      33      |     94     | Doing |
-|  11  |          Simulation          |    시뮬레이션    |          [바로가기](./simulation)          |      30      |     48     |       |
+|  11  |          Simulation          |    시뮬레이션    |          [바로가기](./simulation)          |      30      |     48     | Doing |
 |  12  |        Binary Search         |     이분탐색     |        [바로가기](./binary_search)         |      20      |     66     |       |
 |  13  |         Backtracking         |     백트래킹     |         [바로가기](./backtracking)         |      28      |     75     |       |
 |  14  |      Divide and conquer      |     분할정복     |      [바로가기](./divide_and_conquer)      |      08      |     18     |       |
