@@ -38,7 +38,7 @@
 |  10  |         Brute Force          |     완전탐색     |         [바로가기](./brute_force)          |      33      |     94     | Doing |
 |  11  |          Simulation          |    시뮬레이션    |          [바로가기](./simulation)          |      30      |     48     | Doing |
 |  12  |        Binary Search         |     이분탐색     |        [바로가기](./binary_search)         |      20      |     66     |       |
-|  13  |         Backtracking         |     백트래킹     |         [바로가기](./backtracking)         |      28      |     75     |       |
+|  13  |         Backtracking         |     백트래킹     |         [바로가기](./backtracking)         |      28      |     75     |  Doing     |
 |  14  |      Divide and conquer      |     분할정복     |      [바로가기](./divide_and_conquer)      |      08      |     18     |       |
 |  15  |          Prefix Sum          |     누적 합      |          [바로가기](./prefix_sum)          |      11      |     32     |       |
 |  16  |            String            |      문자열      |            [바로가기](./string)            |      19      |     63     |       |
