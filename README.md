@@ -15,7 +15,7 @@
 | 22-03-21 | 17626번-four Squares <br/> 10971번- 외판원 순회2 <br/> 21610번 - 마법사상어와 비바라기 |   ✅   |   ✅    |
 | 22-03-24 | 1197번-최소 스패닝 트리 <br/> 1463번- 1로만들기  |   ✅   |    ✅    |
 | 22-03-28 | 20056번 - 마법사상어와 파이어볼 <br/> 9095번 - 1,2,3 더하기 <br/> 11726번 - 2xn 타일링  |   ✅   |       |
-| 22-04-01 | 15685번 - 드래곤 커브   |      |       |
+| 22-04-01 | 15685번 - 드래곤 커브   |   ✅    |   ✅     |
 
 ## 알파 문제
 | 날짜     | 문제 이름                                    | 예지 | 유미 |
@@ -25,7 +25,7 @@
 | 22-3-4주차 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|    ✅    |   ✅     |
 | 22-3-4주차 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br/> [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|    ✅    |    ✅    |
 | 22-3-5주차 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) <br/>  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|        |    ✅    |
-| 22-4-1주차 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|        |        |
+| 22-4-1주차 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|    ✅     |    ✅     |
 
 ## 알고리즘 문제집
 
