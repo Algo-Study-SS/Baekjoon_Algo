@@ -16,6 +16,7 @@
 | 22-03-24 | 1197번-최소 스패닝 트리 <br/> 1463번- 1로만들기  |   ✅   |    ✅    |
 | 22-03-28 | 20056번 - 마법사상어와 파이어볼 <br/> 9095번 - 1,2,3 더하기 <br/> 11726번 - 2xn 타일링  |   ✅   |       |
 | 22-04-01 | 15685번 - 드래곤 커브   |   ✅    |   ✅     |
+| 22-04-14 | 17609번 - 회문   |       |        |
 
 ## 알파 문제
 | 날짜     | 문제 이름                                    | 예지 | 유미 |
@@ -26,7 +27,7 @@
 | 22-3-4주차 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br/> [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|    ✅    |    ✅    |
 | 22-3-5주차 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) <br/>  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|        |    ✅    |
 | 22-4-1주차 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|    ✅     |    ✅     |
-
+| 22-4-3주차 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)<br/> [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |         |         |
 ## 알고리즘 문제집
 
 | 순번 |             Tag              |       태그       |                   문제집                   | 추천 문제 수 | 총 문제 수 | 상태  |
