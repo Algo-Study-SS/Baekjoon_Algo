@@ -28,7 +28,7 @@
 | 22-3-4주차 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br/> [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|    ✅    |    ✅    |
 | 22-3-5주차 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) <br/>  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|        |    ✅    |
 | 22-4-1주차 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|    ✅     |    ✅     |
-| 22-4-2주차 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)<br/> [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |     ✅    |         |
+| 22-4-2주차 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)<br/> [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |     ✅    |     ✅    |
 | 22-4-3주차 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)<br/> [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |         |         |
 ## 알고리즘 문제집
 
