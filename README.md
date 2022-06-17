@@ -18,7 +18,8 @@
 | 22-04-01 | 15685번 - 드래곤 커브   |   ✅    |   ✅     |
 | 22-04-14 | 17609번 - 회문   |   ✅    |    ✅    |
 | 22-04-18 | 16235번 - 나무 재택크    |    ✅    |        |
-| 22-04-24 | 20437번 - 문자열 게임2    |       |        |
+| 22-04-18 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |        |
+
 
 ## 알파 문제
 | 날짜     | 문제 이름                                    | 예지 | 유미 |
@@ -31,7 +32,7 @@
 | 22-4-1주차 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|    ✅     |    ✅     |
 | 22-4-2주차 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)<br/> [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |     ✅    |     ✅    |
 | 22-4-3주차 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)<br/> [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |     ✅    |         |
-| 22-4-3주차 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) |         |         |
+
 ## 알고리즘 문제집
 
 | 순번 |             Tag              |       태그       |                   문제집                   | 추천 문제 수 | 총 문제 수 | 상태  |
