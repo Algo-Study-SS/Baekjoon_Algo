@@ -18,7 +18,7 @@
 | 22-04-01 | 15685번 - 드래곤 커브   |   ✅    |   ✅     |
 | 22-04-14 | 17609번 - 회문   |   ✅    |    ✅    |
 | 22-04-18 | 16235번 - 나무 재택크    |    ✅    |        |
-| 22-04-18 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |        |
+| 22-06-20 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |        |
 
 
 ## 알파 문제
