@@ -19,6 +19,8 @@
 | 22-04-14 | 17609번 - 회문   |   ✅    |    ✅    |
 | 22-04-18 | 16235번 - 나무 재택크    |    ✅    |        |
 | 22-06-20 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |        |
+| 22-06-23 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) <br/> [17140번 - 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)   |        |        |
+
 
 
 ## 알파 문제
