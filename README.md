@@ -18,8 +18,9 @@
 | 22-04-01 | 15685번 - 드래곤 커브   |   ✅    |   ✅     |
 | 22-04-14 | 17609번 - 회문   |   ✅    |    ✅    |
 | 22-04-18 | 16235번 - 나무 재택크    |    ✅    |        |
-| 22-06-20 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |        |
-| 22-06-23 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) <br/> [17140번 - 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)   |        |        |
+| 22-06-20 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |    ✅    |
+| 22-06-23 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) <br/> [17140번 - 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)   |        |    ✅    |
+| 22-06-27 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) <br/> [17779번 - 게리맨더링2](https://www.acmicpc.net/problem/17779)   |        |        |
 
 
 
@@ -30,7 +31,7 @@
 | 22-3-3주차 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|    ✅    |    ✅    |
 | 22-3-4주차 | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|    ✅    |   ✅     |
 | 22-3-4주차 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br/> [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|    ✅    |    ✅    |
-| 22-3-5주차 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) <br/>  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|        |    ✅    |
+| 22-3-5주차 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) <br/>  [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|    ✅    |    ✅    |
 | 22-4-1주차 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|    ✅     |    ✅     |
 | 22-4-2주차 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)<br/> [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |     ✅    |     ✅    |
 | 22-4-3주차 | [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829)<br/> [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |     ✅    |         |
