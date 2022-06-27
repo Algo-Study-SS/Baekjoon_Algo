@@ -20,7 +20,8 @@
 | 22-04-18 | 16235번 - 나무 재택크    |    ✅    |        |
 | 22-06-20 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) <br/> [21608번 - 상어 초등학교](https://www.acmicpc.net/problem/21608)   |        |    ✅    |
 | 22-06-23 | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) <br/> [17140번 - 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)   |        |    ✅    |
-| 22-06-27 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) <br/> [17779번 - 게리맨더링2](https://www.acmicpc.net/problem/17779)   |        |        |
+| 22-06-27 | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) <br/> [17779번 - 게리맨더링2](https://www.acmicpc.net/problem/17779)   |   ✅     |        |
+| 22-06-30 | [주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341) <br/> [20058번 - 마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)   |        |        |
 
 
 
